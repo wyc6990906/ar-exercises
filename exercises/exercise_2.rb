@@ -13,3 +13,5 @@ puts "----------"
 
 #Update store's name
 @store1.name = 'Montreal'
+
+puts @store1.name
